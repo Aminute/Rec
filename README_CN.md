@@ -211,7 +211,3 @@ python -u tools/static_trainer.py -m models/rank/dnn/config.yaml #  静态图训
   
 ### 许可证书
 本项目的发布受[Apache 2.0 license](LICENSE)许可认证。
-- 备注`REC`自动加群
-
-<p align="center"><img width="200" height="200" margin="500" src="./doc/imgs/QQ_group.png"/>&#8194;&#8194;&#8194;&#8194;&#8194<img width="200" height="200"  src="doc/imgs/weixin_supporter.png"/></p>
-<p align="center">PaddleRec交流QQ群&#8194;&#8194;&#8194;&#8194;&#8194;&#8194;&#8194;&#8194;&#8194;&#8194;&#8194;&#8194;&#8194;&#8194;&#8194;PaddleRec微信小助手</p>
